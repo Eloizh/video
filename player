@@ -4,7 +4,7 @@
   </head>
   <body>
     <video width="320" height="240" controls>
-      <source src=”https://eloizh.github.io/video/iteration.mp4” type=video/ogg> <source src="video/iteration.mp4" type=video/mp4>
+      <source src=”https://eloizh.github.io/video/iteration.mp4” type=video/mp4> <source src="video/iteration.mp4" type=video/mp4>
     </video>
     <p>
       Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition. Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, quand un imprimeur inconnu a pris une galère de type et
